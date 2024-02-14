@@ -5,10 +5,10 @@
 
 </head>
 <body>
-    <h1>HELLO WELCOME HOME</h1>
+    <h1>INTERVIEW WITHJACOB</h1>
     <h3 style="color: skyblue">Why did you choose digitech!!</h3>
     <p>Why? Why!? Because uhh all the OTHER subjects sucked!! Also its pretty cool!</p>
-    <p>Wow interesting </p>
-    <p>MONEY! MONEY! MONEY!</p>
+    <h3>Ok! Do you have any ASPRIATIONS!</h3>
+    <p>NO! i just wanna make STACKS of CASH</p>
 </body>
 </html>
