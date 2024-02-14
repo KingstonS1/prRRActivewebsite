@@ -14,8 +14,6 @@
     <p>uh idk sleeping</p>
     <h3>...</h3>
     <p>what?</p>
-    <h3>doesnt sleeping like not work for you?</h3>
-    <p>yeah cfs innit scary tales but its still cool</p>
     <h3>how is that cool?</h3>
     <p>i dunno im tired</p>
     <h3>suprise suprise</h3>
