@@ -22,5 +22,6 @@
     <p>seriously? SERIOUSLY? im THE paragraph! i make up 90% of ALL websites! im the original text! youre just some bold big text! im THE paragraph my tales are tought to CHILDREN!</p>
     <h3>yeah yeah whatever</h3>
     <link>https://github.com/KingstonS1/starter-website.git<link/>
+    <p>^ better read me</p>
 </body>
 </html>
