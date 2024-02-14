@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>HELLO WELCOME HOME</h1>
-    <h3 style=font:color:lime>Why did you choose digitech!!</h3>
+    <h3 style="color: skyblue">Why did you choose digitech!!</h3>
     <p>Why? Why!? Because uhh all the OTHER subjects sucked!! Also its pretty cool!</p>
     <p>Wow interesting </p>
     <p>MONEY! MONEY! MONEY!</p>
