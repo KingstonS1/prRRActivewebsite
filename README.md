@@ -5,7 +5,7 @@
 
 </head>
 <body>
-    <h1>Heading 1!</h1>
+    <h1>FREE SPIN 20 SPIN FREE GUARENTEE JACKPOT</h1>
     <h3>Stocks!!</h3>
     <p>Hey you! Yes you! Consider this website an investment opportunity for none other than me and myself!</p>
     <p>If you can give me ALL of your money I PROMISE to use it for nothing but my own needs! Certainly not CHARITY! CHARITY! is overrATED!</p>
