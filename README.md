@@ -10,7 +10,5 @@
     <p>Hey you! Yes you! Consider this website an investment opportunity for none other than me and myself!</p>
     <p>If you can give me ALL of your money I PROMISE to use it for nothing but my own needs! Certainly not CHARITY! CHARITY! is overrATED!</p>
     <p>MONEY! MONEY! MONEY!</p>
-    <p id='demo' style='display: none'>Hello Javascript</p>     
-<button type='button' onclick="toggleText()">Click me</button>
 </body>
 </html>
